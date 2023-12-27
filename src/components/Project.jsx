@@ -1,7 +1,7 @@
 function Project() {
     return (
-        <>
-        </>
+        <section className="project">
+        </section>
     )
 }
 

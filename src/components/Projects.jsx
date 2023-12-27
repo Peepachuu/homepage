@@ -1,7 +1,9 @@
 function Projects() {
     return (
-        <>
-        </>
+        <section className="projects">
+            <h2>My work</h2>
+
+        </section>
     )
 }
 

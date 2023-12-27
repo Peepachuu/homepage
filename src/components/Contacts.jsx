@@ -1,7 +1,8 @@
 function Contacts() {
     return (
-        <>
-        </>
+        <section className="contacts">
+            
+        </section>
     )
 }
 
