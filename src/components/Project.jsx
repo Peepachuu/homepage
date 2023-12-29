@@ -1,7 +1,12 @@
 function Project() {
     return (
-        <section className="project">
-        </section>
+        <div className="project">
+            <div className="screenshot">screnshot of project</div>
+            <span>
+                <h3>Project name</h3>
+                <span>links</span>  
+            </span>
+        </div>
     )
 }
 
